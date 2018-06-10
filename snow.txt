@@ -1,3 +1,5 @@
 rain
 snow
 fix tree
+kimpuzzle/firstapp fixing
+git pull origin master
